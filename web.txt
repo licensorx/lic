@@ -1,2 +1,2 @@
 localhost
-invest.tonsoc.my.id
+invest.tonsoc.com
